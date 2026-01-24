@@ -14,7 +14,7 @@ Then, create a separate script names main.py to:
 '''
 Then, create a separate script names main.py to:
 1. import your calculator module
-2. perform addition, subtraction, multiplication and division using the functions in the module
+2. perform addition, subtraction, multiplication and division using the functions in the module for python code
 
 '''
 
