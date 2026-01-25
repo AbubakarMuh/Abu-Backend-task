@@ -62,7 +62,7 @@ for i in range(10):
             logging.info(f"Result: n = {n}")
         except ZeroDivisionError:
             logging.exception(f" Unexpected error occur.")
-            
+# Printing out NONE error message
 if n is not None:
     print(f"The result for n is: {n}")
 else:
