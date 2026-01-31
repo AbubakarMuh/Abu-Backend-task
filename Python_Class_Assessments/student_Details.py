@@ -15,7 +15,7 @@ class Student:
     def student_Details(self):
         print(f"Student is still under training session in TechVasity")
 
-Student_Detail = Student("Abubakar", 40)
+Student_Detail = Student("Abu_Laja", 40)
 
 print(f"Student name is: {Student_Detail.name}")
 print(f"Student age is: {Student_Detail.age}")
